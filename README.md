@@ -1,4 +1,4 @@
-# UT3 - Prueba calificable 01 Seguridad y desplegado de aplicaciones con Docker
+# Seguridad y desplegado de aplicaciones con Docker
 
 ### Docker-Bench
 
